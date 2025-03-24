@@ -3,8 +3,6 @@
 //Selecting and Manipulating Elements:
 
 /*
-console.log(document.querySelector('.message').textContent);
-
 // To manipulate/set the text content of an element.
 document.querySelector('.message').textContent = 'Correct Number!';
 
